@@ -64,7 +64,7 @@
     <string name="profile_name">Название</string>
     <string name="profile_name_summary">Изменить название профиля</string>
     <string name="delete">Удалить</string>
-    <string name="profiles_limitation">Бесплатная версия ограничена двумя профилями. \nКупить полную версию, чтобы поддержать разработку и снять ограничения?</string>
+    <string name="profiles_limitation">Бесплатная версия ограничена двумя профилями. \nКупите полную версию, чтобы поддержать разработку и снять ограничения?</string>
     <string name="profile_show_in_app_shortcuts">Показывать при долгом нажатии на иконку приложения</string>
     <string name="profile_app_shortcut_toggle">Переключить \"%s\"</string>
     <string name="disable_all_profiles">Выключить все профили</string>
@@ -74,12 +74,12 @@
 
     <!-- Themes -->
     <string name="theme">Тема</string>
-    <string name="theme_default">По-умолчанию</string>
+    <string name="theme_default">По умолчанию</string>
     <string name="theme_pixel">Pixel</string>
     <string name="theme_invisible">Невидимка</string>
     <string name="theme_holo">Holo</string>
     <string name="invalid_theme">Недопустимая тема</string>
-    <string name="theme_limitation">Темы недоступны в бесплатной версии. \nКупить полную версию, чтобы поддержать разработку и разблокировать темы?</string>
+    <string name="theme_limitation">Темы недоступны в бесплатной версии. \nКупите полную версию, чтобы поддержать разработку и разблокировать темы?</string>
     <string name="wip_feature">Эта функция находиться в разработке. В дальнейшем она будет улучшена.</string>
     <string name="themes_warning">Измененные клавиши потеряют свой функционал при долгом нажатии. Это ограничение ОС Android, и не оно может быть исправлено.</string>
     <string name="theme_incompatibility">Несовместимость</string>
@@ -106,7 +106,7 @@
     <string name="tasker_enable_profile">Включить профиль</string>
     <string name="tasker_disable_profile">Отключить профиль</string>
     <string name="tasker_in_profile">в профиле %s</string>
-    <string name="tasker_pro_limitation">События Tasker недоступны в бесплатной версии. \nКупить полную версию, чтобы поддержать разработку и разблокировать события Tasker?</string>
+    <string name="tasker_pro_limitation">События Tasker недоступны в бесплатной версии. \nКупите полную версию, чтобы поддержать разработку и разблокировать события Tasker?</string>
     <string name="tasker_events_wip">Эта функция находиться в разработке. В дальнейшем она будет улучшена.</string>
     <!-- / Tasker plugin UI -->
 
@@ -160,7 +160,7 @@
     <string name="compatibility_test">Проверка совместимости</string>
     <string name="finish">Закончить</string>
     <string name="all_done">Все готово</string>
-    <string name="all_done_desc">Настройка завершена. Можно начинать пользоваться приложение.</string>
+    <string name="all_done_desc">Настройка завершена. Можно начинать пользоваться приложением.</string>
     <string name="exit">Выход</string>
     <string name="contact">Связаться с разработчиком</string>
     <string name="no_email_app">Нет приложения электронной почты</string>
